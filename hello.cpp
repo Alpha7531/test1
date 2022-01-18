@@ -4,10 +4,10 @@ using namespace std;
 int main()
 {
 	
-	
+	cout<<"Are you hungry?"<<endl;
 	string hungry,yes,no,Yes,No,YES,NO;
 	cin>>hungry;
-	cout<<"Are you hungry?"<<endl;
+	
 	if(hungry==yes)
 	{
 	cout<<"let have some stacks"<<endl;
